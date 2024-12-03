@@ -1,0 +1,2 @@
+# activate.godaddy.com
+aaaaa
